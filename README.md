@@ -13,7 +13,7 @@ Elixir.
 
 While I am thankful for the opportunity and world that Ruby on Rails opened for me
 back in 2005, I don't believe that a monoculture is great for any language, and
-since 2015 have been working daily with Ruby but without Rails in any capacity.
+since 2015 have been working daily with Ruby but with minimal Rails involvement.
 I will still use Rails if the job requires, but enjoy working with other fantastic
 libraries in the Ruby ecosystem.
 
@@ -43,7 +43,7 @@ Maybe. It was based on a Ruby bug tracker ticket from over 9 years prior.
 As part of one of my small bets, I've been working on building and shipping
 [DNSLint][3], a brandable DNS toolkit for web hosts and MSPs.
 
-In an ongoing attempt to improve Ruby documentation, I (along with Mediadrive)
+In an ongoing attempt to improve Ruby documentation, I (along with [Mediadrive][2])
 host and support [Gemdocs.org](https://gemdocs.org), an experimental Ruby
 documentation hosting website. Gemdocs currently hosts over 2.4 TB of documentation
 for published Ruby gems.
