@@ -25,7 +25,7 @@ software community, such as DevTricks.
 
 In that same year, to break the monotony of remote work, I connected with the local
 group Cowork Niagara which was meeting twice weekly at a local coffee shop.
-The organization aspired for more, and I joined in formation of the
+The organization aspired for more, and I joined in the formation of
 Co-work Niagara Co-operative Inc., as a founding member and Corporate Secretary.
 The co-operative went on to open a physical co-working space in downtown
 St. Catharines, followed by one located in central St. Catharines. At it's height,
