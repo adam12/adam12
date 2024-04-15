@@ -36,7 +36,7 @@ Today you'll find me mostly working from home.
 
 ## Current projects
 
-I recently built [rbz][3] as an experimental Ruby packaging mechanism for
+I recently built [rbz][5] as an experimental Ruby packaging mechanism for
 single-file archives (ala `jar`, `phar`, or `shar` of other ecosystems). Crazy?
 Maybe. It was based on a Ruby bug tracker ticket from over 9 years prior.
 
@@ -68,3 +68,4 @@ adam12 @ libera.chat
 [2]: https://mediadrive.ca
 [3]: https://dnslint.com
 [4]: https://softwareniagara.com
+[5]: https://github.com/adam12/rbz
