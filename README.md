@@ -60,8 +60,10 @@ for published Ruby gems.
 
 ## Contact me
 
-hello [at] adamdaniels [dot] ca
-adam12 @ libera.chat
+hello [at] adamdaniels [dot] ca  
+adam12 @ libera.chat  
+[LinkedIn](https://www.linkedin.com/in/adamrdaniels/)  
+[Ruby.social](https://ruby.social/@adam12)  
 
 
 [1]: https://adamdaniels.ca
