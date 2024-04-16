@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm [Adam][1]. I'm a long-time software developer and entrepreneuer based in
+I'm [Adam][1], a long-time software developer and entrepreneur based in
 the Niagara region of Canada. Most of the time I provide consulting to other
 organizations through my consultancy, [Mediadrive][2]. But you might also find
 me working on one of my startups or micro-bets, such as [DNSLint][3].
@@ -32,7 +32,7 @@ St. Catharines, followed by one located in central St. Catharines. At it's heigh
 Cowork Niagara served many members and contributed back to the community through
 it's hosting of many local organizations, Software Niagara included.
 
-Today you'll find me mostly working from home.
+Today, you'll find me mostly working from home.
 
 ## Current projects
 
