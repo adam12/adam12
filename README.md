@@ -3,7 +3,7 @@
 I'm [Adam][1], a long-time software developer and entrepreneur based in
 the Niagara region of Canada. Most of the time I provide consulting to other
 organizations through my consultancy, [Mediadrive][2]. But you might also find
-me working on one of my startups or micro-bets, such as [DNSLint][3].
+me working on one of my startups or micro-bets, such as [DNSLint][3] or [Suspenders][5].
 
 While I am familiar with many languages and technologies, Ruby is my first love,
 and most of the software I ship is written in Ruby.
@@ -41,7 +41,8 @@ single-file archives (ala `jar`, `phar`, or `shar` of other ecosystems). Crazy?
 Maybe. It was based on a Ruby bug tracker ticket from over 9 years prior.
 
 As part of one of my small bets, I've been working on building and shipping
-[DNSLint][3], a brandable DNS toolkit for web hosts and MSPs.
+[DNSLint][3], a brandable DNS toolkit for web hosts and MSPs. I've also recently
+launched [Suspenders][5], a toolkit for the DirectAdmin control panel.
 
 In an ongoing attempt to improve Ruby documentation, I (along with [Mediadrive][2])
 host and support [Gemdocs.org](https://gemdocs.org), an experimental Ruby
@@ -71,3 +72,4 @@ adam12 @ libera.chat
 [3]: https://dnslint.com
 [4]: https://softwareniagara.com
 [5]: https://github.com/adam12/rbz
+[6]: https://suspenders.app
