@@ -8,14 +8,13 @@ me working on one of my startups or micro-bets, such as [DNSLint][3] or [Suspend
 While I am familiar with many languages and technologies, Ruby is my first love,
 and most of the software I ship is written in Ruby.
 
-I'll happily work with other languages such as Golang, JavaScript, Python,
+I'll happily work with other languages such as Golang, Crystal, JavaScript, Python,
 Elixir.
 
-While I am thankful for the opportunity and world that Ruby on Rails opened for me
-back in 2005, I don't believe that a monoculture is great for any language, and
-since 2015 have been working daily with Ruby but with minimal Rails involvement.
-I will still use Rails if the job requires, but enjoy working with other fantastic
-libraries in the Ruby ecosystem.
+I started working with Ruby on Rails in 2005, and have come to appreciate the
+beautiful Ruby ecosystem outside of Rails. Since 2015, I've been incredibly enamored
+with using other fantastic libraries in Ruby, and you'll commonly find me around
+the Roda, Rack, Sequel, Hanami, and other communities.
 
 In 2013, I connected with the local grassroots organization [Software Niagara][4],
 and loved the community built around this organization so much, that I promptly
