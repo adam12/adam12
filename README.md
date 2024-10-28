@@ -41,7 +41,9 @@ Maybe. It was based on a Ruby bug tracker ticket from over 9 years prior.
 
 As part of one of my small bets, I've been working on building and shipping
 [DNSLint][3], a brandable DNS toolkit for web hosts and MSPs. I've also recently
-launched [Suspenders][5], a toolkit for the DirectAdmin control panel.
+launched [Suspenders][5], a toolkit for the DirectAdmin control panel, and
+[NoDNS.fyi][7], a reverse proxy for previewing websites during migration without
+changing DNS.
 
 In an ongoing attempt to improve Ruby documentation, I (along with [Mediadrive][2])
 host and support [Gemdocs.org](https://gemdocs.org), an experimental Ruby
@@ -72,3 +74,4 @@ adam12 @ libera.chat
 [4]: https://softwareniagara.com
 [5]: https://github.com/adam12/rbz
 [6]: https://suspenders.app
+[7]: https://nodns.fyi
