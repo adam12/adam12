@@ -3,7 +3,7 @@
 I'm [Adam][1], a long-time software developer and entrepreneur based in
 the Niagara region of Canada. Most of the time I provide consulting to other
 organizations through my consultancy, [Mediadrive][2]. But you might also find
-me working on one of my startups or micro-bets, such as [DNSLint][3] or [Suspenders][5].
+me working on one of my startups or micro-bets, such as [DNSLint][3] or [Suspenders][6].
 
 While I am familiar with many languages and technologies, Ruby is my first love,
 and most of the software I ship is written in Ruby.
@@ -41,7 +41,7 @@ Maybe. It was based on a Ruby bug tracker ticket from over 9 years prior.
 
 As part of one of my small bets, I've been working on building and shipping
 [DNSLint][3], a brandable DNS toolkit for web hosts and MSPs. I've also recently
-launched [Suspenders][5], a toolkit for the DirectAdmin control panel, and
+launched [Suspenders][6], a toolkit for the DirectAdmin control panel, and
 [NoDNS.fyi][7], a reverse proxy for previewing websites during migration without
 changing DNS.
 
